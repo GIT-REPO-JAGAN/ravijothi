@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-groq-translator",
+  "version": "1.0.0",
+  "description": "WhatsApp group translator using Groq Llama and Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "pino": "^8.0.0"
+  }
+}
